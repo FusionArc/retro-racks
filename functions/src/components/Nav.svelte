@@ -4,9 +4,11 @@
 
 <style>
 	nav {
-		border-bottom: 1px solid rgba(255,62,0,0.1);
+		background-color: #333;
 		font-weight: 300;
-		padding: 0 1em;
+		padding: 0;
+		top: 0;
+		border-bottom: 1px solid #333;
 	}
 
 	ul {
@@ -36,7 +38,8 @@
 		content: '';
 		width: calc(100% - 1em);
 		height: 2px;
-		background-color: rgb(255,62,0);
+		background-color: rgb(255,255,255);
+		border-bottom: black 0.25px solid;
 		display: block;
 		bottom: -1px;
 	}
@@ -45,6 +48,7 @@
 		text-decoration: none;
 		padding: 1em 0.5em;
 		display: block;
+		color: #fff;
 	}
 </style>
 
