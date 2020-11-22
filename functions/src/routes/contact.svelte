@@ -4,4 +4,4 @@
 
 <h1>Contact Us</h1>
 
-<p>For all enquiries please choose one of the following contact methods: </p>
+<h4>For all enquiries please choose one of the following contact methods: </h4>
