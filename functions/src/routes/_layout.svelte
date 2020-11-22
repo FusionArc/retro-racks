@@ -7,10 +7,10 @@
 <style>
 	main {
 		position: relative;
-		max-width: 56em;
+		max-width: 80%;
 		background-color: white;
 		padding: 2em;
-		margin: 0 auto;
+		margin: 2em auto;
 		box-sizing: border-box;
 	}
 </style>

@@ -6,7 +6,6 @@
 	nav {
 		top: 0;
 		background-color: #333;
-		border-bottom: 1px solid #333;
 		font-weight: 300;
 	}
 
@@ -38,7 +37,9 @@
 		width: calc(100% - 1em);
 		height: 2px;
 		display: block;
-		bottom: -1px;
+		bottom: 0;
+		background-color: #fff;
+		border-bottom: 1px solid #333;
 	}
 
 	a {
