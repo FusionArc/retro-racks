@@ -1,6 +1,6 @@
 <style>
 	h1 {
-		font-size: 2.8em;
+		font-size: 2em;
 		text-transform: uppercase;
 		font-weight: 700;
 		margin: 0;
